@@ -1,0 +1,11 @@
+# GCP dependencies
+google-cloud-bigquery==3.14.1
+google-cloud-secret-manager==2.18.1
+google-cloud-logging==3.9.0
+
+# HTTP client
+requests==2.31.0
+urllib3==2.1.0
+
+# Python standard library enhancements
+python-dateutil==2.8.2
